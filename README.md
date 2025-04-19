@@ -15,7 +15,7 @@ A full-featured **To-Do List REST API** built using **FastAPI**, **MySQL**, and 
 - MySQL Database Integration via SQLAlchemy ORM
 - Alembic for Database Migrations
 - `.env` for Secret Management
-- Postman Collection for API Testing
+- Use inbuilt localhost:8000/docs for API Testing
 
 ---
 
