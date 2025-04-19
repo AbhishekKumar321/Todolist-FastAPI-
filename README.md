@@ -54,7 +54,7 @@ Run this query in your MySQL client to create the database:
 ```sql
 CREATE DATABASE todo_db;
 USE todo_db;
-
+```
 
 🔄 Alembic Migrations (TL;DR)
 
